@@ -1,4 +1,4 @@
-import MealService from '../services/meal.service';
+import MealService from '../services/services.meal';
 
 
 const MealController = {
